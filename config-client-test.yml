@@ -1,0 +1,3 @@
+config:
+  laolei:
+    title: 这是一个被包含进来的配置
